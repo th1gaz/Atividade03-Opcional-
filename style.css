@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.cabeca{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+#cardapio{
+    padding: 24px;
+    margin: 24px;
+}
+
+#plvra{
+    padding: 16px;
+    margin: 16px;
+}
+
+.style{
+    background-color: #e2d8e7;
+    color: #21022d;
+    padding: 24px;
+    margin: 24px;
+}
+
+.vitaminas{
+    margin: 64px;
+    
+}
+#vitaminas-zero-lactose{
+    text-align: center;
+    margin: 64px;
+    padding: 32px;
+}
